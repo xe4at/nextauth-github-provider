@@ -18,6 +18,9 @@ export default function Home() {
       <button>
         <Link href="/dashboard">Dashboard</Link>
       </button>
+      <button>
+        <Link href="/ssrdashboard">SSR Dashboard</Link>
+      </button>
     </div>
   );
 }
